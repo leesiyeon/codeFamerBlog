@@ -27,6 +27,7 @@ comments:
   provider               :  "disqus"
   disqus:
     shortname            : "https-leesiyeon-github-io-katedevlog"
+    url                  : "http://disqus.com/by/disqus_3r82ofMvSU"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
