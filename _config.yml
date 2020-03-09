@@ -26,7 +26,7 @@ words_per_minute         : 200
 comments:
   provider               :  "disqus"
   disqus:
-    shortname            : https-leesiyeon-github-io-katedevlog
+    shortname            : "https-leesiyeon-github-io-katedevlog"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
