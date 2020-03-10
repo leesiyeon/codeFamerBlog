@@ -12,7 +12,7 @@ toc_sticky: true
 ## 1. JDK 설치
   * OS BIT 확인
   ```shell
-    [root@localhost ~]# getconf LONG_BIT
+  [root@localhost ~]# getconf LONG_BIT
   ```
 
   * JDK 폴더 권한 주기
@@ -24,11 +24,11 @@ toc_sticky: true
 
   * JDK 압축 풀기
   ```shell
-    [user@localhost ~]# tar -zxvf jdk-7u80-linux-x64.tar.gz
+  [user@localhost ~]# tar -zxvf jdk-7u80-linux-x64.tar.gz
   ```
   root 계정으로 압축을 풀었을 경우에는 /jdk 폴더 하위 모두 user계정으로 권한 변경을 해줍니다.
   ```shell
-    [root@localhost ~]# chown user.user/jdk –R
+  [root@localhost ~]# chown user.user/jdk –R
   ```
 
 ## 2. 환경 변수 설정하기
@@ -55,12 +55,12 @@ toc_sticky: true
 ## 3. JDK 설치 확인하기
   * which를 사용해 설치경로 확인하기
   ```shell
-    [root@localhost ~]# which java
+  [root@localhost ~]# which java
   ```
 
   * 새로 설치한 위치가 아닌 기존경로가 잡히는경우
   ```shell
-    [root@localhost ~]# unlink /usr/bin/java
+  [root@localhost ~]# unlink /usr/bin/java
   ```
 
   * 설치된 JDK 버전 확인하기
