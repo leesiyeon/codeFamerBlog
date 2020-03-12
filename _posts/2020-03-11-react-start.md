@@ -17,7 +17,7 @@ react 공부를 시작하면서 매일 삽질한것들과.. 까먹지 않기위�
 
 ## 2. npm 설치하기
 npm을 사용하려면 Node.js를 설치해야 npm을 사용할 수 있습니다. https://nodejs.org/ko/ 로 접속하여 node.js를 다운받아줍니다.   
-![cap1](/assets/images/cap1.png)
+![cap1](/katedevlog/assets/images/cap1.png)
 
 다운로드를 완료했다면 커맨드 창에서 제대로 설치 되었는지 확인합니다. 커맨드창 접속 방법은 '윈도우 로고 키 + R'을 눌러서 cmd라고 입력하면 됩니다.
 * node.js 설치 확인
@@ -26,7 +26,7 @@ node --version
 ```
 
   이렇게 숫자(버전)가 나오면 정상적으로 설치완료
-![nodeversion](/assets/images/nodeversion.png)
+![nodeversion](/katedevlog/assets/images/nodeversion.png)
 
 
 * npm 설치 확인
@@ -34,20 +34,20 @@ node --version
 npm -v
 ```
   npm도 마찬가지로 숫자(버전)가 나오면 정삭적으로 설치완료
-![npmversion](/assets/images/npmversion.png)
+![npmversion](/katedevlog/assets/images/npmversion.png)
 
 ## 3. react-create-app 설치하기
 * 아래 명령어를 커맨드창에서 입력해주면 리액트를 자동으로 install 합니다.
 ```
 npm install -g create-react-app
 ```
-![installreact](/assets/images/installreact.png)
+![installreact](/katedevlog/assets/images/installreact.png)
 
 * 다운로드가 완료되면 정상적으로 설치되었는지 확인합니다.
 ```
 create-react-app -v
 ```
-![checkreact](/assets/images/checkreact.png)
+![checkreact](/katedevlog/assets/images/checkreact.png)
 
 ## 4. 개발환경 구성할 디렉토리 설정하기
 * 아무 위치나 상관없이 환경 구성할 폴더를 하나 생성합니다. 저는 D:/react-app 이라고 폴더를 생성했습니다.  
@@ -65,4 +65,4 @@ npm run start
 ```
 
 * 실행되었을 때 페이지  
-![reactpage](/assets/images/reactpage.png)
+![reactpage](/katedevlog/assets/images/reactpage.png)
