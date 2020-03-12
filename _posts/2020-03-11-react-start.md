@@ -21,18 +21,18 @@ npm을 사용하려면 Node.js를 설치해야 npm을 사용할 수 있습니다
 
 다운로드를 완료했다면 커맨드 창에서 제대로 설치 되었는지 확인합니다. 커맨드창 접속 방법은 '윈도우 로고 키 + R'을 눌러서 cmd라고 입력하면 됩니다.
 * node.js 설치 확인
-~~~
+```
 node --version
-~~~
+```
 
   이렇게 숫자(버전)가 나오면 정상적으로 설치완료
 ![nodeversion](/assets/images/nodeversion.png)
 
 
 * npm 설치 확인
-~~~
+```
 npm -v
-~~~
+```
   npm도 마찬가지로 숫자(버전)가 나오면 정삭적으로 설치완료
 ![npmversion](/assets/images/npmversion.png)
 
