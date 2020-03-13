@@ -16,7 +16,7 @@ react 공부를 시작하면서 매일 삽질한것들과.. 까먹지 않기위�
 저는 windows에서 모든 환경을 구성하겠습니다. 맥은 비싸니깐요.
 
 ## 2. npm 설치하기
-npm을 사용하려면 Node.js를 설치해야 npm을 사용할 수 있습니다. https://nodejs.org/ko/ 로 접속하여 node.js를 다운받아줍니다.   
+npm을 사용하려면 Node.js를 설치해야 npm을 사용할 수 있습니다. [여기](https://nodejs.org/ko) 로 접속하여 node.js를 다운받아줍니다.   
 ![cap1](/katedevlog/assets/images/cap1.png)
 
 다운로드를 완료했다면 커맨드 창에서 제대로 설치 되었는지 확인합니다. 커맨드창 접속 방법은 '윈도우 로고 키 + R'을 눌러서 cmd라고 입력하면 됩니다.
