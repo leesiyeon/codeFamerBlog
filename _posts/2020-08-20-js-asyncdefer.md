@@ -23,7 +23,7 @@ tags:
 </html>
 ```
 
-![head](/assets/images/head.png)
+![head](../../assets/images/head.png)
 
 - parsing HTML -> JS -> parsing HTML
 - html을 parsing하다가 script 태그를 만나면 parsing을 멈추고 js파일을 한줄씩 읽어오게 된다.
