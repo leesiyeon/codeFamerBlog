@@ -15,17 +15,17 @@ tags:
 - 예를들어 '12345'의 문자열이 주어지면 1+2+3+4+5의 합을 구해야 한다.
 
   ```javascript
-  llet num = "123454321";
+  let num = "123454321";
   let result = 0;
 
   while (true) {
-  if (num.length === 1) {
-    result += parseInt(num, 10);
-    break;
-  }
-  let y = num.split("");
-  result += parseInt(y.pop(), 10);
-  num = y.join("");
+    if (num.length === 1) {
+      result += parseInt(num, 10);
+      break;
+    }
+    let y = num.split("");
+    result += parseInt(y.pop(), 10);
+    num = y.join("");
   }
   console.log(result);
   ```
