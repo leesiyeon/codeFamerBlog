@@ -36,8 +36,9 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
   utterances:
-    theme: # "github-light" (default), "github-dark"
-    issue_term: # "pathname" (default)
+    theme: "github-light" # , "github-dark"
+    issue_term: "pathname" # (default)
+    repo: "leesiyeon/codeFarmerBlog"
 staticman:
   allowedFields: ["name", "email", "url", "message"]
   branch: # "master", "gh-pages"
