@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://leesiyeon.github.io/codeFamerBlog/sitemap.xml
+Sitemap: https://leesiyeon.github.io/codeFarmerBlog/sitemap.xml
